@@ -1,0 +1,18 @@
+p{
+	font-size : 16pt;
+}
+
+
+p{ color : black;
+}
+
+h1 { color : green;
+
+}
+h2 { color : blue;
+}
+h3 {color : red;
+}
+body {
+	background-image: url("https://media.istockphoto.com/id/1350867339/photo/top-view-photo-of-christmas-decorations-snow-branches-on-isolated-pastel-blue-background-with.jpg?b=1&s=170667a&w=0&k=20&c=j9xpVi_av-yp5BzekZvg10Emn7q9JIqOoOsu95ZmsbE=");
+}
