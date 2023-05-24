@@ -1,8 +1,10 @@
 p{
 	font-size : 16pt;
 }
-
-
+.center{
+ text-align: center
+}
+<h1 class="center"> Layde Dei Y Resource Assistance</h1>
 p{ color : black;
 }
 
