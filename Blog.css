@@ -7,16 +7,7 @@ p{
   color : black;
 }
 
-   p.two {
-  border-style: solid;
-  }
-
-  {
-  border-color: green;
-  }
-
-  {
-  border-width: thick;
+  
 h1 {
   color : green;
 
@@ -29,5 +20,4 @@ h3 {
 }
 body {
 	background-image: url("https://media.istockphoto.com/id/486074342/photo/sweet-color-lotus-in-soft-and-blur-style.jpg?b=1&s=170667a&w=0&k=20&c=1g88-2yMFqrWQJA8b9o4aQFGGKs-5h5Qp5ZLE7q36OQ=");
-
 }
