@@ -7,12 +7,12 @@ p{ color : black;
 }
 p.one {
   border-style: doubled;
-  border-width: thick;
+  border-width: 15 px;
 }
 
 p.two {
   border-style: solid;
-  border-width: 5 px;
+  border-width: thick;
 }
 h1 { color : green;
 
@@ -24,6 +24,6 @@ h3 {color : red;
 body {
 	background-image: url("https://images.unsplash.com/photo-1610397648930-477b8c7f0943?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=730&q=80");
 	background-position: right top;
-	margin-right: 100px;
+	margin-right: 300px;
 	
 }
