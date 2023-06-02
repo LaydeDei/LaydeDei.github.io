@@ -8,15 +8,26 @@ p{
 }
 p.one {
   border-style: double;
-  border-color:green
-  border-width: 15 px;
-}
+  }
 
-p.two {
+  {
+  border-color: green;
+  }
+
+  {
+  border-width: 15 px;
+  }
+
+  p.two {
   border-style: solid;
-  border-color:green
+  }
+
+  {
+  border-color: green;
+  }
+
+  {
   border-width: thick;
-}
 h1 {
   color : green;
 
