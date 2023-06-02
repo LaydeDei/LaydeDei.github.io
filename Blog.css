@@ -4,21 +4,10 @@ p{
 
 
 p{
-  color : black;
+  color : black border-color: green border-style: double border-width: 15 px;
 }
-p.one {
-  border-style: double;
-  }
 
-  {
-  border-color: green;
-  }
-
-  {
-  border-width: 15 px;
-  }
-
-  p.two {
+   p.two {
   border-style: solid;
   }
 
