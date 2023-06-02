@@ -3,7 +3,8 @@ p{
 }
 
 
-p{ color : black;
+p{
+  color : black;
 }
 p.one {
   border-style: double;
@@ -14,12 +15,15 @@ p.two {
   border-style: solid;
   border-width: thick;
 }
-h1 { color : green;
+h1 {
+  color : green;
 
 }
-h2 { color : blue;
+h2 { 
+  color : blue;
 }
-h3 {color : red;
+h3 {
+  color : red;
 }
 body {
 	background-image: url("https://images.unsplash.com/photo-1610397648930-477b8c7f0943?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=730&q=80");
