@@ -5,7 +5,7 @@ p{
 
 p{ color : black;
 }
-
+<p class="double">A double border.</p>
 h1 { color : green;
 
 }
