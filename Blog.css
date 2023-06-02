@@ -6,7 +6,7 @@ p{
 p{ color : black;
 }
 p.one {
-  border-style: doubled;
+  border-style: double;
   border-width: 15 px;
 }
 
